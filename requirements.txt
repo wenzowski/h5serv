@@ -1,0 +1,6 @@
+numpy==1.11.1
+h5py==2.6.0
+tornado==4.0.2
+watchdog==0.8.3
+requests==2.11.1
+git+https://github.com/HDFGroup/hdf5-json.git@a85c6b195dc63687391f8e69be3f6d595679c0f5
